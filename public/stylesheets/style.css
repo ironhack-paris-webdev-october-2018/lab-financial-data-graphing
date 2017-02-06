@@ -6,3 +6,16 @@ body {
 a {
   color: #00B7FF;
 }
+
+#date-selector,
+#currency-selector {
+  margin-bottom: 30px;
+}
+
+#max-min-values {
+  text-align: right;
+}
+
+.clear  { clear: both; }
+.fleft  { float: left; }
+.fright { float: right; }
